@@ -1,0 +1,4 @@
+<include>*.csv</include>
+<include>*.xls</include>
+<include>*.xlsx</include>
+<include>*.doc</include>
